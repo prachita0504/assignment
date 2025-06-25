@@ -13,7 +13,7 @@ const Description: NextPage = () => {
 
       {/* Description Summary */}
       <p className="mt-4 text-md">
-        <strong>Production / Distribution musicale</strong> : Independent Record Label / Maison de disque | Maison d’édition de livres / Artistes, auteurs, interprètes indépendants / Label discographie / Éditeur de musique / Music publisher
+        <strong>Production / Distribution musicale</strong> : Independent Record Label / Maison de disque | Maison d&rsquo;édition de livres / Artistes, auteurs, interprètes indépendants / Label discographie / Éditeur de musique / Music publisher
         <br />
         <strong>Studio de Musique</strong>
         <br />
@@ -25,7 +25,7 @@ const Description: NextPage = () => {
         <div>
           <h3 className="text-center text-lg font-semibold mb-2">À propos</h3>
           <p>
-            Les Productions CulturATtistLy Inc. couvrent les volets musicaux, arts littéraires, spectacles et divertissements. Ses activités se concentrent surtout dans la production musicale, la distribution, la commercialisation d’enregistrement de musique. Affilié à d’autres entreprises connexes de services relatifs aux films et au domaine de l'audiovisuel, de studios de musique et de Sonorisation. Ces services connexes sont offerts sur demande seulement.
+            Les Productions CulturATtistLy Inc. couvrent les volets musicaux, arts littéraires, spectacles et divertissements. Ses activités se concentrent surtout dans la production musicale, la distribution, la commercialisation d&rsquo;enregistrement de musique. Affilié à d&rsquo;autres entreprises connexes de services relatifs aux films et au domaine de l&apos;audiovisuel, de studios de musique et de Sonorisation. Ces services connexes sont offerts sur demande seulement.
           </p>
         </div>
 
